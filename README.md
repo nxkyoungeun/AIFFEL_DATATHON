@@ -3,7 +3,7 @@
  * 기간 : 2022. 03. 08 ~ 2022. 03. 11
  * 데이터셋 : [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 ***
-## 목차
+# 목차
 1. [데이터톤 소개](#1.-데이터톤-소개)
 2. [팀 소개](#2.-팀-소개)
 3. [주제 소개](#3.-주제-소개)
